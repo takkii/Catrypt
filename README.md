@@ -1,4 +1,4 @@
-### Cryptman ( 暗号化・複合化ツール )
+### Cryptman ( 暗号化・複合化ツール ) → OSS project Catrypt (暗号化・複合化ツール)
 
 [apache codec](https://commons.apache.org/proper/commons-codec/download_codec.cgi)
 

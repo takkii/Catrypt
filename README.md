@@ -14,7 +14,7 @@ IntelliJの場合
 プロジェクト構造 → プロジェクト設定 → ライブラリー → + を押す→apache codecを登録
 ```
 
-### 実行
+### 環境をインポートから実行まで
 
 ```markdown
 git clone git@github.com:takkii/Cryptman.git
@@ -24,4 +24,6 @@ IntelliJの場合
 プロジェクトをインポート
 
 Cryptmanを選択、OKを継続、完了ボタンを押す
+
+メニュー → 実行 → 起動構成の実行 → Catryptを選択 → 実行結果
 ```

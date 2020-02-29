@@ -1,4 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)![GitHub release](https://img.shields.io/github/release/takkii/Catrypt.svg?style=flat)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)![GitHub release](https://img.shields.io/github/release/takkii/Catrypt.svg?style=flat)[![GitHub Status](https://img.shields.io/github/last-commit/takkii/Catrypt.svg?style=flat)](GitHub)
 
 ### Cryptman ( 暗号化・複合化ツール ) → OSS project Catrypt (暗号化・複合化ツール)
 

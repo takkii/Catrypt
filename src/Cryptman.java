@@ -60,7 +60,7 @@ class Bill extends Exception{
             Date date = new Date(file.lastModified());
             Locale locale = new Locale("ja", "JP", "JP");
             SimpleDateFormat sdf = new SimpleDateFormat(
-                    "GGGy年 M月 d日 EEEE a h時 m分 s秒 Sミリ秒", locale);
+                    "GGGGy年 M月 d日 EEEE a h時 m分 s秒 Sミリ秒", locale);
             System.out.println(" 最終更新日時 = [ " + sdf.format(date) + " ]");
             System.out.println();
             System.out.println(">------------------------------------------------------------------------<");
